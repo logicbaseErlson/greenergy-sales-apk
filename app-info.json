@@ -1,9 +1,9 @@
 {
-  "version": "0.0.004",
-  "downloadURL": "https://github.com/logicbaseErlson/greenergy-sales-apk/releases/download/v0.0.004/greenergy_2023-09-01.12-00.apk",
+  "version": "0.0.005",
+  "downloadURL": "https://github.com/logicbaseErlson/greenergy-sales-apk/releases/download/v0.0.005/greenergy_2023-09-01_15-00.apk",
   "description": [
     "- Fixed Activity Form Lead Options",
     "- Added Remarks in the lead form"
   ],
-  "date": "2023-09-01 13:00:00"
+  "date": "2023-09-01 15:00:00"
 }
